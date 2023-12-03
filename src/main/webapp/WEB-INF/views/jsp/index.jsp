@@ -28,7 +28,7 @@
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Hiiii!
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-9980923216</h3>
+			<h2>Welcome To sushma Technologies Private Limited, Bengaluru, Inida ,Karnataka.</h2>
+			<h3>Contact @ +91-7338241880</h3>
 		</div>	
 	</div>
 
